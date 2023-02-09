@@ -1,11 +1,16 @@
-# about-devmota
-Rafael Grigio, mais conhecido como devmota
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmota)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmota&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmota&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmota&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmota&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmota)](https://github.com/devmota/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmota&layout=compact)](https://github.com/devmota/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmota&layout=compact)](https://github.com/devmota/github-readme-stats)
+<div>
+  <a href="https://github.com/martinsjeniffer">
+    <img
+      src="https://github-readme-stats.vercel.app/api/?username=devmota&count_private=true&theme=tokyonight&hide_border=true&showicons=true&hide=issues&hide_border"
+      alt="GitHub Stats"
+      width="50%"
+    />
+  </a>
+  <a href="https://github.com/martinsjeniffer">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=devmota&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak Stats"
+      width="43%"
+    />
+  </a>
+</div>
